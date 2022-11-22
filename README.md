@@ -1,2 +1,1 @@
-# C_learning
-The learning process for C language
+# 这个文件夹记录着基本语言类的学习，包含 C / C++ Java 正则表达式 Python 等必要的知识学习
